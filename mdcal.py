@@ -4,6 +4,7 @@
 #
 # This script creates a calendar in markdown formatted output, with embedded links for my daily journal in Obsidian
 # Inspired by https://github.com/pn11/mdcal/blob/master/mdcal.py
+# Run: python3 mdcal.py <year>
 
 import calendar
 import datetime
